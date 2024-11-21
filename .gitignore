@@ -54,3 +54,6 @@ debug/
 .coverage
 htmlcov/
 .pytest_cache/
+
+backup/
+test/
